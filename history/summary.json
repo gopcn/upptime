@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/a.gopcn.repl.co.ico",
     "slug": "a-list",
     "status": "up",
-    "uptime": "96.57%",
-    "uptimeDay": "96.57%",
-    "uptimeWeek": "96.57%",
-    "uptimeMonth": "96.57%",
-    "uptimeYear": "96.57%",
-    "time": 2325,
-    "timeDay": 2325,
-    "timeWeek": 2325,
-    "timeMonth": 2325,
-    "timeYear": 2325,
-    "dailyMinutesDown": {
-      "2023-08-04": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1926,
+    "timeDay": 1926,
+    "timeWeek": 1926,
+    "timeMonth": 1926,
+    "timeYear": 1926,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Cloudreve",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 212,
-    "timeDay": 212,
-    "timeWeek": 212,
-    "timeMonth": 212,
-    "timeYear": 212,
+    "time": 264,
+    "timeDay": 264,
+    "timeWeek": 264,
+    "timeMonth": 264,
+    "timeYear": 264,
     "dailyMinutesDown": {}
   }
 ]
