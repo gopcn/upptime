@@ -4,18 +4,20 @@
     "url": "https://a.gopcn.repl.co/",
     "icon": "https://icons.duckduckgo.com/ip3/a.gopcn.repl.co.ico",
     "slug": "a-list",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1926,
-    "timeDay": 1926,
-    "timeWeek": 1926,
-    "timeMonth": 1926,
-    "timeYear": 1926,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 3371,
+    "timeDay": 3371,
+    "timeWeek": 3371,
+    "timeMonth": 3371,
+    "timeYear": 3371,
+    "dailyMinutesDown": {
+      "2023-08-05": 0
+    }
   },
   {
     "name": "Cloudreve",
