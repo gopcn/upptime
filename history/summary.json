@@ -4,18 +4,20 @@
     "url": "https://a.gopcn.repl.co/",
     "icon": "https://icons.duckduckgo.com/ip3/a.gopcn.repl.co.ico",
     "slug": "a-list",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3809,
-    "timeDay": 4956,
-    "timeWeek": 3809,
-    "timeMonth": 3809,
-    "timeYear": 3809,
-    "dailyMinutesDown": {}
+    "time": 4410,
+    "timeDay": 6321,
+    "timeWeek": 4410,
+    "timeMonth": 4410,
+    "timeYear": 4410,
+    "dailyMinutesDown": {
+      "2023-08-06": 0
+    }
   },
   {
     "name": "Cloudreve",
@@ -23,18 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/c.sdufe.repl.co.ico",
     "slug": "cloudreve",
     "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2815,
     "timeDay": 5366,
     "timeWeek": 2815,
     "timeMonth": 2815,
     "timeYear": 2815,
-    "dailyMinutesDown": {
-      "2023-08-06": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]
