@@ -4,19 +4,19 @@
     "url": "https://a.gopcn.repl.co/",
     "icon": "https://icons.duckduckgo.com/ip3/a.gopcn.repl.co.ico",
     "slug": "a-list",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 5560,
-    "timeDay": 7130,
-    "timeWeek": 5560,
-    "timeMonth": 5560,
-    "timeYear": 5560,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 5431,
+    "timeDay": 6777,
+    "timeWeek": 5431,
+    "timeMonth": 5431,
+    "timeYear": 5431,
     "dailyMinutesDown": {
-      "2023-08-06": 0
+      "2023-08-06": 6
     }
   },
   {
