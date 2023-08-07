@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5170,
-    "timeDay": 6740,
-    "timeWeek": 5170,
-    "timeMonth": 5170,
-    "timeYear": 5170,
+    "time": 4930,
+    "timeDay": 362,
+    "timeWeek": 4930,
+    "timeMonth": 4930,
+    "timeYear": 4930,
     "dailyMinutesDown": {}
   },
   {
@@ -22,17 +22,19 @@
     "url": "https://c.sdufe.repl.co/",
     "icon": "https://icons.duckduckgo.com/ip3/c.sdufe.repl.co.ico",
     "slug": "cloudreve",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1988,
-    "timeDay": 3335,
-    "timeWeek": 1988,
-    "timeMonth": 1988,
-    "timeYear": 1988,
-    "dailyMinutesDown": {}
+    "time": 3066,
+    "timeDay": 7915,
+    "timeWeek": 3066,
+    "timeMonth": 3066,
+    "timeYear": 3066,
+    "dailyMinutesDown": {
+      "2023-08-07": 0
+    }
   }
 ]
