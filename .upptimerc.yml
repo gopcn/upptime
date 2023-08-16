@@ -3,9 +3,15 @@ repo: upptime
 
 sites:
   - name: AList
-    url: https://a.gopcn.repl.co/
+    url: https://a.gopcn.repl.co
   - name: Cloudreve
-    url: https://c.sdufe.repl.co/
+    url: https://c.sdufe.repl.co
+  - name: Uptime Kuma
+    url: https://u.sdufe.repl.co
+  - name: Typecho
+    url: https://s.sdufe.repl.co
+  - name: Waline
+    url: https://zeabur-starter.zeabur.app
 
 status-website:
   baseUrl: /upptime
@@ -17,6 +23,3 @@ status-website:
       href: /upptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
