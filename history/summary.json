@@ -122,19 +122,19 @@
     "url": "https://u.sdufe.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/u.sdufe.repl.co.ico",
     "slug": "uptime-kuma",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 687,
-    "timeDay": 507,
-    "timeWeek": 512,
-    "timeMonth": 687,
-    "timeYear": 687,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 678,
+    "timeDay": 438,
+    "timeWeek": 497,
+    "timeMonth": 678,
+    "timeYear": 678,
     "dailyMinutesDown": {
-      "2023-09-13": 0
+      "2023-09-13": 5
     }
   }
 ]
