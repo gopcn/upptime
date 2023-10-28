@@ -6,14 +6,6 @@ sites:
     url: https://a.gopcn.repl.co
   - name: Cloudreve
     url: https://c.sdufe.repl.co
-  - name: memos
-    url: https://m.sdufe.repl.co
-  - name: Typecho
-    url: https://s.sdufe.repl.co
-  - name: Waline
-    url: https://zeabur-starter.zeabur.app
-  - name: One API
-    url: https://cnki.zeabur.app
   - name: Uptime Kuma
     url: https://u.sdufe.repl.co
 
